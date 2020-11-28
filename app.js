@@ -7,6 +7,7 @@ function errorHandler(error){
     alert("something went wrong! try again");
 }
 
+
 function translation() {
     var url = "https://api.funtranslations.com/translate/minion.json?text=" + text.value;
 
