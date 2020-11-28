@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+nav h1{
+    text-align: center;
+    background-color: #ecd122;
+    padding: 1.5rem;
+    font-size: 2rem;
+}
+
