@@ -62,3 +62,21 @@ button{
     border-radius: 0.2rem;
 }
 
+footer{
+    position: fixed;
+    bottom: 0px;
+    background: #ecd122;
+    width: 100%;
+    padding: 1rem;
+}
+
+footer h2{
+    text-align: center;
+}
+
+footer p{
+    max-width: 500px;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+}
