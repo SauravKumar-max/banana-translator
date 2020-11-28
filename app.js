@@ -13,7 +13,7 @@ function translation() {
     fetch(url)
     .then(response => response.json())
     .then(json => {
-    
+          console.log(json);
           var minionText = json.contents.translated;
           translatedText.innerText = minionText;
     })
