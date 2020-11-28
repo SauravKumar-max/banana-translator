@@ -60,6 +60,9 @@ button{
     overflow: auto;
     background: rgb(240, 240, 224);
     border-radius: 0.2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0.5rem;
 }
 
 footer{
