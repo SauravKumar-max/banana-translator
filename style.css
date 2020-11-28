@@ -16,3 +16,49 @@ nav h1{
     font-size: 2rem;
 }
 
+main{
+    margin: auto;
+    max-width: 550px;
+    padding: 1rem;
+}
+
+main p{
+    font-weight: bold;
+    text-align: center;
+}
+
+textarea{
+    border: solid 1px #000;
+    border-radius: 0.2rem;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    padding: 0.5rem;
+    width: 100%;
+    min-height: 20vh;
+    background: rgb(240, 240, 224);
+}
+
+button{
+    border: solid 1px #000;
+    border-radius: 0.2rem;
+    padding: 0.5rem 1.6rem;
+    font-size: 1.2rem;
+    background: #ecd122;
+    margin: 1rem 0;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt-translated{
+    width: 100%;
+    height: 110px;
+    border: solid 0.5px #000;
+    overflow: auto;
+    background: rgb(240, 240, 224);
+    border-radius: 0.2rem;
+}
+
