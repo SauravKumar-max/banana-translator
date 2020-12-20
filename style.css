@@ -67,6 +67,7 @@ button{
 
 footer{
     position: fixed;
+    z-index: -1;
     bottom: 0px;
     background: #ecd122;
     width: 100%;
